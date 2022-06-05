@@ -5,3 +5,4 @@
 ### 세팅 정보
 
 - React Version 17로 다운그레이드 진행(220604 토요일)
+- Husky & commitlint 적용(220605 일요일)
